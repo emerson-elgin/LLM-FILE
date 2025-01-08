@@ -1,1 +1,30 @@
-# Python dependencies
+# FastAPI and ASGI Server
+fastapi==0.100.0
+uvicorn[standard]==0.22.0
+
+# AI and NLP Libraries
+transformers==4.32.0
+sentence-transformers==2.2.2
+tokenizers==0.13.3
+
+# Semantic Search
+faiss-cpu==1.7.4
+
+# Data Handling
+pandas==2.1.1
+numpy==1.26.0
+
+# Database Connectivity
+psycopg2-binary==2.9.8
+sqlalchemy==2.0.23
+
+# Testing
+pytest==7.4.0
+pytest-asyncio==0.21.0
+
+# Utility Libraries
+python-dotenv==1.0.0
+pydantic==2.4.0
+
+# Optional: For file handling (if needed in Python)
+aiofiles==23.2.0
