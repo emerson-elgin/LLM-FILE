@@ -221,4 +221,4 @@ Fork the repository.
 Create a new branch for your feature or bug fix.
 Submit a pull request with a clear description of your changes.
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE 
